@@ -4,6 +4,11 @@
 
 pnpm workspace monorepo using TypeScript. Each package manages its own dependencies.
 
+## Artifacts
+
+- **portfolio** (`/`): Sreeranjini S personal portfolio — React + Vite, dark cybersecurity-themed single-page app. Features hero with photo, skills, projects, experience, education, and contact sections with Framer Motion animations.
+- **api-server** (`/api`): Shared Express 5 backend
+
 ## Stack
 
 - **Monorepo tool**: pnpm workspaces
